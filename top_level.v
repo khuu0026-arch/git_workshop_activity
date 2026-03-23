@@ -20,3 +20,4 @@ module top_level (
 
 	 
 endmodule
+// polling fixed, CLOCK set to 50 Hz
