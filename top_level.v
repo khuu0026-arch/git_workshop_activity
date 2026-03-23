@@ -20,3 +20,4 @@ module top_level (
 
 	 
 endmodule
+// CLOCK set to 70 Hz
